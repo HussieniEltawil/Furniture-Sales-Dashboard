@@ -13,16 +13,16 @@ The goal is to transform raw data into meaningful insights to better understand:
 ## 📷 Dashboard Preview
 
 ### 📊 Dashboard Overview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](dashboard-overview.png)
 
 ### 📊 Additional View
-![Dashboard 2](images/dashboard-overview-2.png)
+![Dashboard 2](dashboard-overview-2.png)
 
 ### 🏠 Landing Page
-![Landing Page](images/landing-page.png)
+![Landing Page](landing-page.png)
 
 ### 🧠 Key Insights
-![Insights](images/key-insights.png)
+![Insights](key-insights.png)
 
 ---
 
@@ -36,6 +36,13 @@ The goal is to transform raw data into meaningful insights to better understand:
 
 ---
 
+## 📁 Project Files
+
+📥 **Download Full Dashboard Files (PBIX + PDF)**  
+👉 [Open Google Drive Folder](https://drive.google.com/drive/folders/10rFAGaWgyNtfe0BZW2V3Mwtiwa1S_Bun?usp=drive_link)
+
+---
+
 ## 🛠 Tools Used
 - Excel → Data cleaning & preparation  
 - Power BI → Data visualization & dashboard design  
@@ -46,13 +53,6 @@ The goal is to transform raw data into meaningful insights to better understand:
 - Designed a **complete user experience** (Landing Page → Dashboard → Insights)  
 - Added **insight annotations directly on charts**  
 - Focused on **business understanding**, not just visuals  
-
----
-
-## 📁 Files Included
-- Power BI file (.pbix)  
-- PDF version of the dashboard  
-- Images for preview  
 
 ---
 
