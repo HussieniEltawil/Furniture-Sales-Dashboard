@@ -3,16 +3,10 @@
 ## 📊 Project Overview
 This project presents an interactive **Power BI dashboard** designed to analyze furniture sales performance.
 
-The goal is to transform raw data into meaningful insights that help understand:
+The goal is to transform raw data into meaningful insights to better understand:
 - Customer behavior  
 - Product performance  
 - Sales trends across regions and time  
-
----
-
-## 🛠 Tools Used
-- Excel → Data cleaning & preparation  
-- Power BI → Data visualization & dashboard design  
 
 ---
 
@@ -22,7 +16,7 @@ The goal is to transform raw data into meaningful insights that help understand:
 ![Dashboard](images/dashboard-overview.png)
 
 ### 📊 Additional View
-![Dashboard 2](images/dashboard-overview(2).png)
+![Dashboard 2](images/dashboard-overview-2.png)
 
 ### 🏠 Landing Page
 ![Landing Page](images/landing-page.png)
@@ -39,6 +33,12 @@ The goal is to transform raw data into meaningful insights that help understand:
 - Cairo underperforms despite being a major market → potential marketing or competition gap  
 - Beds are the top-selling product → focus on high-demand categories  
 - Sales show a gradual decline over time → review marketing strategy  
+
+---
+
+## 🛠 Tools Used
+- Excel → Data cleaning & preparation  
+- Power BI → Data visualization & dashboard design  
 
 ---
 
