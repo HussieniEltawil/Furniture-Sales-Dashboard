@@ -12,14 +12,14 @@ The goal is to transform raw data into meaningful insights to better understand:
 
 ## 📷 Dashboard Preview
 
+### 🏠 Landing Page
+<img src="landing-page.png" width="800">
+
 ### 📊 Dashboard Overview
 ![Dashboard](dashboard-overview.png)
 
 ### 📊 Additional View
 ![Dashboard 2](dashboard-overview-2.png)
-
-### 🏠 Landing Page
-![Landing Page](landing-page.png)
 
 ### 🧠 Key Insights
 ![Insights](key-insights.png)
@@ -53,13 +53,6 @@ The goal is to transform raw data into meaningful insights to better understand:
 - Designed a **complete user experience** (Landing Page → Dashboard → Insights)  
 - Added **insight annotations directly on charts**  
 - Focused on **business understanding**, not just visuals  
-
----
-
-## 🚀 Future Improvements
-- Use real-world dataset instead of synthetic data  
-- Add advanced KPIs and deeper analysis  
-- Implement forecasting models for sales prediction  
 
 ---
 
